@@ -1,4 +1,4 @@
-# 🍏 Apple Vision – Interactive Product Showcase Website
+#  Apple Vision – Interactive Product Showcase Website
 
 **Tech Stack:** HTML · CSS · JavaScript · Tailwind CSS · Shery.js · GSAP · Canvas · Locomotive.js
 
@@ -45,6 +45,8 @@ A smooth, immersive, and responsive product landing page inspired by Apple’s s
 ```bash
 git clone https://github.com/yourusername/apple-vision-showcase.git
 cd apple-vision-showcase
+
+2. Open the index.html file directly in your browser or use Live Server in VS Code.
 
 
 🌐 Live Demo
