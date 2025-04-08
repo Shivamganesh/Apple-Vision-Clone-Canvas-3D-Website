@@ -19,7 +19,7 @@ A smooth, immersive, and responsive product landing page inspired by Apple’s s
 
 ## 📸 Screenshots
 
-> Add visuals here:
+>Soon...
 
 
 
